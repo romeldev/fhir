@@ -1,0 +1,18 @@
+{
+    "name": "romeldev/fhir",
+    "description": "Clases HL7 FHIR",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Romeldev\\Fhir\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Romel Diaz",
+            "email": "root.romel@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
